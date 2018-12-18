@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="PokemonData" max_length="40" name="x_295555_pokeapite_pokemondata" type="collection">
+        <element label="PokemonID" max_length="40" name="pokemonid" type="integer"/>
+        <element label="PokemonName" max_length="40" name="pokemonname" type="string"/>
+    </element>
+</database>

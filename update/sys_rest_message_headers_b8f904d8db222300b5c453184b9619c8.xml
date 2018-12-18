@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>User-Agent</name>
+        <rest_message display_value="PokeApiCall">8a23c4d4db222300b5c453184b961946</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-18 20:38:01</sys_created_on>
+        <sys_id>b8f904d8db222300b5c453184b9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User-Agent</sys_name>
+        <sys_package display_value="PokeApiTest" source="x_295555_pokeapite">8ad24c94db222300b5c453184b961985</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PokeApiTest">8ad24c94db222300b5c453184b961985</sys_scope>
+        <sys_update_name>sys_rest_message_headers_b8f904d8db222300b5c453184b9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:38:01</sys_updated_on>
+        <value>ServiceNow</value>
+    </sys_rest_message_headers>
+</record_update>
